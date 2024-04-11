@@ -1,4 +1,4 @@
-# JUnit5_Basic
+# JUnit5
 
 when you approach a coding challenge there are certain steps that you follow.
 
